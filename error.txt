@@ -41,3 +41,4 @@
 2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
 2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
 2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 

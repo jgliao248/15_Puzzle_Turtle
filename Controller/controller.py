@@ -5,7 +5,7 @@ This file contains the Controller class that dictates the flow of the overall ga
 from Model.model import Model
 from View.view import View
 import os
-from error_logger import log_error
+from Controller.error_logger import log_error
 import turtle
 
 PUZZLES_PATH = "./Puzzles/"  # directory where the puzzle data is stored
