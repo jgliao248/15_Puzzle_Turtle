@@ -1,0 +1,43 @@
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 [Errno 2] No such file or directory: 'leaderboard.txt' 	 leaderboard.txt not found. 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 [Errno 2] No such file or directory: 'leaderboard.txt' 	 leaderboard.txt not found. 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 [Errno 2] No such file or directory: 'leaderboard.txt' 	 leaderboard.txt not found. 
+2023-01-01 [Errno 2] No such file or directory: 'leaderboard.txt' 	 leaderboard.txt not found. 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 [Errno 2] No such file or directory: 'leaderboard.txt' 	 leaderboard.txt not found. 
+2023-01-01 [Errno 2] No such file or directory: 'leaderboard.txt' 	 leaderboard.txt not found. 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 [Errno 2] No such file or directory: 'leaderboard.txt' 	 leaderboard.txt not found. 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-01 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
+2023-01-02 <class 'FileNotFoundError'> 	 Images/marios_not_here/16.gif not found 
