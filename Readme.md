@@ -47,6 +47,7 @@ The installation of this program only involves two steps:
 To play the game, simply run the `main.py` file from an IDE or from the terminal. 
 
 Once the game opens, it will prompt the player to enter their name. If no name if given, then a default "UNKNOWN" will be used instead. 
+
 ![startup](https://github.com/jgliao248/15_Puzzle_Turtle/blob/main/Readme%20Files/startup.gif)
 
 The Mario puzzle is loaded by default. To start playing, use the mouse to click on a tile that is adjacent to the empty space. Continuously do this until the tiles match the thumbnail image to the top right of the screen. The first move of the automatically starts the timer of the game. 
