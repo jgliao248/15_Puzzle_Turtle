@@ -1,7 +1,7 @@
-Mario Fifteen Puzzle
+#Mario Fifteen Puzzle
 
 ## Description
-This program is a Python turtle [[https://en.wikipedia.org/wiki/15_puzzle|15 Puzzle game]]. The game was written to show case the turtle library and act as a reference tool to aid students developing their own versions. At the time of creating this game, it served as a way to reinforce my understanding of some basic Python and programming concepts to help students as a teaching assistant. 
+This program is a Python turtle [15 puzzle game](https://en.wikipedia.org/wiki/15_puzzle). The game was written to show case the turtle library and act as a reference tool to aid students developing their own versions. At the time of creating this game, it served as a way to reinforce my understanding of some basic Python and programming concepts to help students as a teaching assistant. 
 
 Though this is based on the 15 puzzle game, it is not limited to just 15 pieces. Other sizes of perfect squared valued grids are available (e.g. 2x2, 3x3, etc)
 
@@ -28,7 +28,7 @@ The major challenge with this project is the usage of the turtle library greatly
 
 Initially, the goal was to adapt the turtle.Screen class directly as the view but it proved to be a challenge. Since it is not simply a window class, creating a child class was difficult. 
 
-There also appears to be some performance issues with the game when running on Apple Silicon on battery power. This is noticed by other user as well [[https://developer.apple.com/forums/thread/695963|here]]. 
+There also appears to be some performance issues with the game when running on Apple Silicon on battery power. This is noticed by other user as well [here](https://developer.apple.com/forums/thread/695963). 
 
 ### Future Improvements 
 
@@ -47,7 +47,7 @@ The installation of this program only involves two steps:
 To play the game, simply run the `main.py` file from an IDE or from the terminal. 
 
 Once the game opens, it will prompt the player to enter their name. If no name if given, then a default "UNKNOWN" will be used instead. 
-![[startup.gif]]
+![startup](https://github.com/jgliao248/15_Puzzle_Turtle/blob/main/Readme%20Files/startup.gif)
 
 The Mario puzzle is loaded by default. To start playing, use the mouse to click on a tile that is adjacent to the empty space. Continuously do this until the tiles match the thumbnail image to the top right of the screen. The first move of the automatically starts the timer of the game. 
 
@@ -56,9 +56,11 @@ If the game is won, the player's result will be processed. If the score is withi
 To replay the current game, click on the current puzzle's thumbnail. 
 
 To load a new game, click on `load more` and type in one of the listed available puzzles. 
-![[load.gif]]
+
+![load](https://github.com/jgliao248/15_Puzzle_Turtle/blob/main/Readme%20Files/load.gif)
 
 To bring the pieces back to their correct places, press reset. The game count will remain the same. This button serves as a "cheat" to finish the puzzle quickly. 
-![[reset.gif]]
+
+![reset](https://github.com/jgliao248/15_Puzzle_Turtle/blob/main/Readme%20Files/reset.gif)
 
 To quit the game, click on the `quit` button. 
